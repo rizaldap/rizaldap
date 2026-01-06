@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there! I'm Rizalda Adhipramana
+# 👋 Hey there! I'm Muhamad Rizal Dwi Adhipramana
 
 ### 💻 Core Developer | Full Stack Engineer | Backend Specialist ⚡
 
